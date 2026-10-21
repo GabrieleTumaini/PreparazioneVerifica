@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Preparazione Verifica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a75b3ac03be458d1c51dbac17eecf719dc208c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a47a4cebc4ff58a927323a8ffba8092265d349da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Preparazione Verifica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Preparazione Verifica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
